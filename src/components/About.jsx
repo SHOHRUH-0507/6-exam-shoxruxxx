@@ -3,9 +3,10 @@ import Todo from './Todo'
 
 function About() {
     return (
-        <div>
+        
+            
             <Todo/>
-        </div>
+        
     )
 }
 
